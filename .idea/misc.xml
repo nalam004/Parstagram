@@ -3,8 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/nihar/AndroidStudioProjects/Parstagram/app/src/main/res/drawable/loginet.xml" value="0.19583333333333333" />
         <entry key="..\:/Users/nihar/AndroidStudioProjects/Parstagram/app/src/main/res/layout/activity_login2.xml" value="0.22" />
         <entry key="..\:/Users/nihar/AndroidStudioProjects/Parstagram/app/src/main/res/layout/activity_main.xml" value="0.165625" />
+        <entry key="..\:/Users/nihar/AndroidStudioProjects/Parstagram/app/src/main/res/layout/fragment_compose.xml" value="0.1796875" />
+        <entry key="..\:/Users/nihar/AndroidStudioProjects/Parstagram/app/src/main/res/layout/fragment_posts.xml" value="0.1796875" />
+        <entry key="..\:/Users/nihar/AndroidStudioProjects/Parstagram/app/src/main/res/layout/item_post.xml" value="0.1796875" />
         <entry key="..\:/Users/nihar/AndroidStudioProjects/Parstagram/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.1796875" />
         <entry key="..\:/Users/nihar/AndroidStudioProjects/Parstagram/app/src/main/res/xml/fileprovider.xml" value="0.1796875" />
       </map>

@@ -7,5 +7,8 @@
     <string name="back4app_server_url">https://parseapi.back4app.com/</string>
     <string name="back4app_app_id">Ni33YxtlgnUxOLL1n7pXpKfRtbEXEWNF6dp4z9J9</string>
     <string name="back4app_client_key">pZEl9qOSJgBbDj6oiNlF9HD6IqQacgeyEGaooLwf</string>
+    <string name="log_in" />
+    <string name="sign_up" />
+    <string name="todo" />
 
 </resources>
